@@ -1,6 +1,49 @@
 pgp-publickey
 =============
 
-This is my pgp public key, use it if you're sending me an email (andrew.ruestow@gmail.com)
+Below is my pgp public key, use it if you're sending me an email (andrew.ruestow@gmail.com)
 
 For a nice video explaining how to use PGP encryption check out http://vimeo.com/56881481
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+=RkVp
+-----END PGP PUBLIC KEY BLOCK-----
